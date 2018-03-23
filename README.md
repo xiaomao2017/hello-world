@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-github练习
+Hello World!
